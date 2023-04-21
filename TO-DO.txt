@@ -1,0 +1,349 @@
+* TO-DO (^) 
+
+* __[#A]_DO_IT_NOW_FAGGOT__
+get me an (A)
+
+** TODO [#A] *SCOUT:PONY.TOWN*
++ [0%] *RESEARCH FIRST !!!*
+  + [ ] /there-software/
+    + [ ] [[https://github.com/drewdru/ponyTown]] 
+      * [100%] */assets-source/*
+	- [X] all assets-source-folders & files
+	- [100%] assets-source/sprites-animations
+	  - [X] files (psd)
+	- [100%] assets-source/sprites-palette
+	  - [X] files (png)
+	- [100%] assets-source/animations
+	  - [X] files (psd, png)
+	    * [100%] Halloween_Ghost_Anim
+	      - [X] files (gif)
+            * [100%] pony_wake
+	      - [X] files (psd)
+            * [100%] water_crystal
+	      - [X] files (psd)
+	    * [100%] water_rock
+	      - [X] files (psd)
+	- [100%] assets-source/buttons
+	  - [X] files (png)
+	- [100%] assets-source/objects
+	  - [X] files (psd)
+	    * [100%] apple
+	      - [X] files (psd)
+	    * [100%] bench
+	      - [X] file (psd, png)
+	    * [100%] box
+	      - [X] files (psd)
+	    * [100%] candy_cane
+	      - [X] files (psd)
+	    * [100%] carrot
+	      - [X] files (psd)
+	    * [100%] clover
+	      - [X] files (psd)
+	    * [100%] cookie_table
+	      - [X] files (psd)
+	    * [100%] crate
+	      - [X] files (psd)
+	    * [100%] crystals
+	      - [X] files (psd)
+	    * [100%] cushion
+	      - [X] files (psd)
+	    * [100%] direction
+	      - [X] files (psd)
+	    * [100%] egg
+	      - [X] files (psd)
+	    * [100%] egg_basket
+	      - [X] files (psd)
+	    * [100%] fence
+	      - [X] files (psd)
+	    * [100%] fence_winter
+	      - [X] files (psd)
+	    * [100%] flower
+	      - [X] files (psd)
+	    * [100%] gift
+	      - [X] files (psd)
+	    * [100%] giftpile
+	      - [X] files (psd)
+	    * [100%] gifts
+	      - [X] files (psd)
+	    * [100%] grapes
+	      - [X] files (psd)
+	    * [100%] jacko_lantern
+	      - [X] files (psd)
+	    * [100%] large_leafed_bush
+	      - [X] files (psd)
+	    * [100%] leaf
+	      - [X] files (psd)
+	    * [100%] leafpile
+	      - [X] files (psd)
+	    * [100%] leaves
+	      - [X] files (psd)
+	    * [100%] lemon
+	      - [X] files (psd)
+	    * [100%] mine_rails
+	      - [X] files (psd)
+	    * [100%] orange
+	      - [X] files (psd)
+	    * [100%] picture
+	      - [X] files (psd)
+	    * [100%] plank
+	      - [X] files (psd)
+	    * [100%] pumpkin
+	      - [X] files (psd)
+	    * [100%] rock
+	      - [X] files (psd)
+	    * [100%] sign
+	      - [X] files (psd)
+	    * [100%] snowpile
+	      - [X] files (psd)
+	    * [100%] snowpony
+	      - [X] files (psd)
+	    * [100%] stalactite
+	      - [X] files (psd)
+	    * [100%] stone_wall
+	      - [X] files (psd)
+	    * [100%] stone_wall_winter
+	      - [X] files (psd)
+	    * [100%] table
+	      - [X] files (psd)
+	    * [100%] tombstone
+	      - [X] files (psd)
+	    * [100%] toolbox
+	      - [X] files (psd)
+	    * [100%] window
+	      - [X] files (psd)
+	    * [100%] wooden_fence
+	      - [X] files (psd)
+	    * [100%] wooden_fence_winter
+	      - [X] files (psd)	      
+	- [100%] assets-source/sprites
+	  - [X] files (png)
+	- [100%] assets-source/lights
+	  - [X] files (png)
+	- [100%] assets-source/emotes
+	  - [X] files (psd)
+	- [100%] assets-source/icons
+	  - [X] files (png)
+	- [100%] assets-source/fonts
+	  - [X] files (psd)
+	- [100%] assets-source/tiles
+	  - [X] files (png)
+	- [100%] assets-source/walls
+	  - [X] files (psd)
+	- [100%] assets-source/trees
+	  - [X] penis
+	  - [100%] tree
+	    - [X] files (psd)
+	  - [100%] pine
+	    - [X] files (psd)
+	- [100%] assets-source/pony
+	  - [X] files (psd)
+      * [0%] */PonyTown/* --assess the following files
+	- [ ] [cli.js]
+	  + [[link-cb]]
+	- [ ] [gulpfile.js]
+	- [ ] [package.json]
+	- [ ] [workbox-config.js]
+	- [ ] [config-template.js]
+	- [ ] [pony-town-offline.js]
+	- [ ] [pony-town.js]
+	- [ ] [tsconfig-aot-es.json]
+	- [ ] [tsconfig-aot.json
+	- [ ] [tsconfig.json]
+	- [ ] [tslint.json]
+	- [ ] [webpack.common.js]
+	- [ ] [webpack.prod.js]
+	- [ ] [webpack.dev.js]
+      * [33%] *PonyTown/favicons/*
+	- [X] files (png, svg, ico)
+	- [ ] browserconfig.xml
+	  + [[link-cb]]
+	- [ ] manifest.json
+      * [0%] *PonyTown/public/*
+	- [ ] termsofservice.html
+	- [ ] privacypolicy.html
+	- [ ] offline.html
+	- [ ] reload.html
+	- [ ] reset.html
+	- [ ] robots.txt
+	- [100%] public/images
+	  - [X] files (png)
+      * [100%] *PonyTown/assets/*
+	* [X] images
+	  - [X] files "png, jpg"
+	* [X] music
+	  - [X] files "webm, mp3"
+      * [0%] *PonyTown/src/*
+	- [ ] all-sources
+	- [0%] scripts
+	  - [ ] bootstrap-common.js
+	  - [ ] bootstrap-tools.js
+	  - [ ] bootstrap-admin.js
+	  - [ ] bootstrap-es.js
+	  - [ ] bootstrap.js
+	  - [ ] lodash.js
+	    * [0%] components
+	      * [0%] services
+		- [ ] adminModel.js
+		- [ ] audio.js
+		- [ ] authGuard.js
+		- [ ] errorReporter.js
+		- [ ] frameService.js
+		- [ ] gameService.js
+		- [ ] installService.js
+		- [ ] intervalUpdateService.js
+		- [ ] liveCollection.js
+		- [ ] model.js
+		- [ ] modelSubscriber.js
+		- [ ] rollbarErrorHandler.js
+		- [ ] rollbarErrorReporter.js
+		- [ ] settingsService.js
+		- [ ] storageService.js
+	      * [0%] shared
+		- [ ] shared.module.js
+		  * [0%] character-preview
+		    - [ ] character-preview.js
+		  * [0%] butt-mark-editor
+		    - [ ] butt-mark-editor.js
+		  * [0%] character-select
+		    - [ ] character-select.js
+		  * [0%] sprite-selection
+		    - [ ] sprite-selection.js
+		  * [0%] custom-checkbox
+		    - [ ] custom-checkbox.js
+		  * [0%] character-list
+		    - [ ] character-list.js
+		  * [0%] install-button
+		    - [ ] install-button.js
+		  * [0%] support-button
+		    - [ ] support-button.js
+		  * [0%] settings-modal
+		    - [ ] settings-modal.js
+		  * [0%] supporter-pony
+		    - [ ] supporter-pony.js
+		  * [0%] invites-model
+		    - [ ] invites-model.js
+		  * [0%] set-selection
+		    - [ ] set-selection.js
+		  * [0%] action-button
+		    - [ ] action-button.js
+		  * [0%] fill-outline
+		    - [ ] fill-outline.js
+		  * [0%] portrait-box
+		    - [ ] portrait-box.js
+		  * [0%] color-picker
+		    - [ ] color-picker.js
+		  * [0%] notification
+		    - [ ] notification-item.js
+		    - [ ] notification-list.js
+		  * [0%] settings-box
+		    - [ ] settings-box.js
+		  * [0%] scale-picker
+		    - [ ] scale-picker.js
+		  * [0%] virtual-list
+		    - [ ] virtual-list.js
+		  * [0%] date-picker
+		    - [ ] date-picker.js
+		  * [0%] friends-box
+		    - [ ] friends-box.js
+		  * [0%] page-loader
+		    - [ ] page-loader.js
+		  * [0%] play-notice
+		    - [ ] play-notice.js
+		  * [0%] sign-in-box
+		    - [ ] sign-in-box.js
+		  * [0%] action-bar
+		    - [ ] action-bar.js
+		  * [0%] directives
+		    - [ ] saveActiveTab.js
+		    - [ ] btnHighlight.js
+		    - [ ] agAutoFocus.js
+		    - [ ] linkCurrent.js
+		    - [ ] focusTitle.js
+		    - [ ] hasFeature.js
+		    - [ ] labelledBy.js
+		    - [ ] draggable.js
+		    - [ ] focusTrap.js
+		    - [ ] fixToTop.js
+		    - [ ] dropdown.js
+		    - [ ] agDrag.js
+		    - [ ] anchor.js
+		    - [ ] revSrc.js
+		  * [0%] bitmap-box
+		    - [ ] bitmap-box.js
+		  * [0%] sprite-box
+		    - [ ] sprite-box.js
+		  * [0%] party-list
+		    - [ ] party-list.js
+		  * [0%] site-links
+		    - [ ] site-links.js
+		  * [0%] slider-bar
+		    - [ ] slider-bar.js
+		  * [0%] checl-box
+		    - [ ] checl-box.js
+		  * [0%] emote-box
+		    - [ ] emote-box.js
+		  * [0%] menu-item
+		    - [ ] menu-item.js
+		  * [0%] party-box
+		    - [ ] party-box.js
+    		  * [0%] site-info
+		    - [ ] site-info.js
+		  * [0%] swap-box
+		    - [ ] swap-box.js
+		  * [0%] chat-box
+		    - [ ] chat-box.js
+		  * [0%] pony-box
+		    - [ ] pony-box.js
+		  * [0%] play-box
+		    - [ ] play-box.js
+		  * [0%] menu-bar
+		    - [ ] menu-bar.js
+		  * [0%] chat-log
+		    - [ ] chat-log.js
+		  * [0%] kbd-key
+		    - [ ] kbd-key.js
+		  * [0%] mod-box
+		    - [ ] mod-box.js
+		  * [0%] tabset
+		    - [ ] tabset.js
+  		  * [0%] pipes
+		    - [ ] siteName.js
+	      * [0%] admin
+	      * [0%] tools
+	      * [0%] app
+	    * [0%] generated
+	    * [0%] graphics
+	    * [0%] common
+	    * [0%] client
+	    * [0%] server
+	    * [0%] tools
+	    * [0%] tests
+	- [0%] typings
+	- [0%] styles
+	- [0%] fixes
+	- [0%] tests
+	- [0%] maps
+	- [0%] ts
+	    
+* __[#B] THIS COMES AFTER_
+here are all the (B) shit
+
+** TODO [#B] N/A
+** TODO [#B] N/A
+** TODO [#B] N/A
+
+
+* __[#C] NOT C BUT MAYBE B_
+here lays the (C) lol
+
+** [#C] N/A
+** [#C] N/A
+** [#C] N/A
+
+
+* __[#D]_CUM_IN_MY_BRAINS__
+adhd cumdump-bin-penis-boobs
+
+** [#D] N/A
+** [#D] N/A
+** [#D] N/A
